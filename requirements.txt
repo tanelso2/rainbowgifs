@@ -9,4 +9,4 @@ packaging==24.0
 Pillow==10.3.0
 prometheus-client==0.16.0
 Werkzeug==2.3.8
-zipp==3.8.1
+zipp==3.19.1
